@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2 class="mb-4">The highlights as a web developer</h2>
+        <h2>The highlights as a web developer</h2>
         <table>
             <tr v-for="(item, index) in resumeContent" :key="index">
                 <td class="pr-8 text-xs pb-2">{{ item.date }}</td>
@@ -15,6 +15,10 @@ export default {
     data() {
         return {
             resumeContent: [
+                {
+                    date: 'December 2023 - now',
+                    job: 'Web Design & Development freelancer @ Sea Lion Web Design | Nuxt + Tailwind CSS + Github CI/CD',
+                },
                 {
                     date: 'September 2022 - now',
                     job: 'Frontend Engineer @ ING | JS + Lit',

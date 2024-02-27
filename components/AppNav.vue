@@ -19,6 +19,11 @@ export default {
                     external: false,
                 },
                 {
+                    title: 'Developer',
+                    link: '/developer',
+                    external: false,
+                },
+                {
                     title: 'Resume',
                     link: '/resume',
                     external: false,
