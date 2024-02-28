@@ -9,7 +9,7 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  app: {
-    baseURL: '/readyplayermellie/'
-  }
+  // app: {
+  //   baseURL: '/readyplayermellie/'
+  // }
 })

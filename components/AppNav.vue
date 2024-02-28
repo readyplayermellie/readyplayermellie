@@ -24,6 +24,11 @@ export default {
                     external: false,
                 },
                 {
+                    title: 'Human',
+                    link: '/human',
+                    external: false,
+                },
+                {
                     title: 'Resume',
                     link: '/resume',
                     external: false,
