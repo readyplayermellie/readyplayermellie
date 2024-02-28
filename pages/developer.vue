@@ -6,7 +6,7 @@
         <p class="mb-4">Click below to visit my Github page or open my resume (in English) in a new tab:</p>
         <div class="flex">
             <button class="mr-3"><a href="https://github.com/readyplayermellie" target="_blank">Go to my Github</a></button>
-            <button><a href="/docs/cv.pdf" target="_blank">Preview my resume</a></button>
+            <button><a href="/docs/en-resume.pdf" target="_blank">Preview my resume</a></button>
         </div>
     </div>
 </template>
